@@ -37,4 +37,6 @@ Open the link in your browser. Enter a customer query and click Submit to get a 
 - `requirements.txt` — Dependencies
 - `customer_agent.ipynb` — (Optional) Notebook for experiments
 
+- Here is a screenshot of the interface
+
 ![App Screenshot](screenshot.png)
